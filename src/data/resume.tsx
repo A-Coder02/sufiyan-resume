@@ -64,10 +64,10 @@ export const DATA = {
   work: [
     {
       company: "TomTom",
-      href: "#",
+      href: "https://www.tomtom.com/",
       location: "Hybrid",
       title: "Technical Support Professional",
-      logoUrl: "/tomtom.png",
+      logoUrl: "https://prod3-assets.sprinklr.com/spr-uploads-prod3/150030/ACCOUNT/IMAGE/35E495CE5342463F7A9C00D01073708B",
       start: "May 2025",
       end: "Present",
       description:
@@ -75,10 +75,10 @@ export const DATA = {
     },
     {
       company: "Pronttera",
-      href: "#",
+      href: "https://www.pronttera.com/",
       location: "Hybrid",
       title: "Content Creator & Digital Marketing Associate",
-      logoUrl: "/pronttera.png",
+      logoUrl: "https://www.pronttera.com/assets/brand-C7V-uIQP.png",
       start: "Dec 2024",
       end: "May 2025",
       description:
@@ -86,10 +86,10 @@ export const DATA = {
     },
     {
       company: "Imagecurry",
-      href: "#",
+      href: "https://www.imagecurry.com/",
       location: "Remote",
       title: "Frontend Developer",
-      logoUrl: "/imagecurry.png",
+      logoUrl: "/image-curry.jpeg",
       start: "Sep 2024",
       end: "Dec 2024",
       description:
@@ -100,7 +100,7 @@ export const DATA = {
       href: "#",
       location: "Remote",
       title: "Full Stack Developer",
-      logoUrl: "/brightforge.png",
+      logoUrl: "https://cdn-icons-png.freepik.com/256/18362/18362209.png?semt=ais_white_label",
       start: "Mar 2024",
       end: "Sep 2024",
       description:
@@ -108,10 +108,10 @@ export const DATA = {
     },
     {
       company: "The Digital Junction",
-      href: "#",
+      href: "https://www.thedigitaljunction.com/",
       location: "Internship",
       title: "Digital Marketing Intern",
-      logoUrl: "/digitaljunction.png",
+      logoUrl: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAWlBMVEVHcEwmTZknQZErU6EfQJEySZRghb/0Z1HlKRrmLiAcO44YO48dQJMkQJHkKBrlJg7lIwzlKRvpWFDqQzQnPo7mKhvlKBiOnsA7mOUZiOMykOM9k+QyR5LlNi2uhIb3AAAAHnRSTlMAR40wbGAcF4hstf//5dv//8YpSZ248QxO3WSIgGBuaBGiAAABGElEQVR4Ac3R0ZZFIBSA4Z1UsZ0Kp8Lw/q857dIaY6y5Pv8V+bQBPiXWAG9SrWASlO66Tpc6yPWIIIYSvpgytuTGaYbUO60TqPXgy3WtXN5iyAARf4SxIVg9OUsgIoHIOWeiKaIBKl2/gAVKbwIoITX/AmsVfd3iBqASSaevJ7DBksmrzLiDuAJ8LXUGsj8AtmWTnEB+E/EwAta40s47gf0JgPfqX+CtNXVE+wSMteH+kMdtBxcvr9ml8/kKaOG4fChDN1RQf04oj9CcE0a4ApphPfSYJyhLEyroI08plxbHGFsGcNisT9DIAVNsJuFG3elARwZO0HIcKORZ1EwsQLYChxIKNZ7EOQ01ubc1EWHSYwjGH/BBfQNuWRtxvRd/kAAAAABJRU5ErkJggg==",
       start: "2021",
       end: "2021",
       description:
@@ -145,7 +145,7 @@ export const DATA = {
         "Context API",
         "Styled Components",
       ],
-      image: "",
+      image: "thee-wildd-oasis.vercel.app_login",
       video: "",
       links: [],
     },
@@ -157,7 +157,7 @@ export const DATA = {
       description:
         "Interactive travel tracker with map integration allowing users to log visited cities and manage travel history.",
       technologies: ["React.js", "Leaflet", "Context API", "Custom Hooks"],
-      image: "",
+      image: "hyperball123.github.io_Worldwise_.png",
       video: "",
       links: [],
     },
@@ -169,7 +169,7 @@ export const DATA = {
       description:
         "Movie search and watchlist app using advanced React patterns like useReducer and custom hooks.",
       technologies: ["React.js", "JavaScript", "CSS"],
-      image: "",
+      image: "hyperball123.github.io_usePopcorn_.png",
       video: "",
       links: [],
     },
@@ -181,7 +181,7 @@ export const DATA = {
       description:
         "Responsive landing page for a food subscription service focused on clean UI and modern CSS techniques.",
       technologies: ["HTML", "CSS", "JavaScript"],
-      image: "",
+      image: "hyperball123.github.io_Omnifood-Desktop_.png",
       video: "",
       links: [],
     },
