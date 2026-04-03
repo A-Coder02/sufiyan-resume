@@ -122,7 +122,7 @@ export const DATA = {
   education: [
     {
       school: "Aki’s Poona College of Arts, Science & Commerce",
-      href: "#",
+      href: "https://i1.wp.com/poonacollege.edu.in/wp-content/uploads/2021/03/cropped-cropped-logo-50-gulden-jubilee-year.png?fit=512%2C512&ssl=1",
       degree: "Bachelor of Computer Application (CGPA: 8.77)",
       logoUrl: "/college.png",
       start: "2020",
