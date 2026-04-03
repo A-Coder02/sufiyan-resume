@@ -39,7 +39,7 @@ export const DATA = {
 
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "/blog", icon: NotebookIcon, label: "Blog" },
+    { href: "https://drive.google.com/file/d/1vOldUl2pDTqYOXV9ZUizeaMXpoIB-Op8/view", icon: NotebookIcon, label: "Resume" },
   ],
 
   contact: {
@@ -145,7 +145,7 @@ export const DATA = {
         "Context API",
         "Styled Components",
       ],
-      image: "thee-wildd-oasis.vercel.app_login",
+      image: "thee-wildd-oasis.vercel.app_login.png",
       video: "",
       links: [],
     },
