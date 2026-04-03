@@ -69,6 +69,7 @@ export const DATA = {
       end: "Dec 2024",
       description:
         "Built responsive web applications using React.js, Next.js, and Tailwind CSS. Translated client requirements into scalable UI components and improved UX using Figma-driven designs. Optimized web content for SEO and performance.",
+        
     },
     {
       company: "Bright Forge Solutions",
@@ -119,7 +120,10 @@ export const DATA = {
         "React Query",
         "Context API",
         "Styled Components",
-      ],
+      ], 
+      image: "",
+video: "",
+links: [],
     },
     {
       title: "Worldwise",
@@ -129,6 +133,9 @@ export const DATA = {
       description:
         "Interactive travel tracker with map integration allowing users to log visited cities and manage travel history.",
       technologies: ["React.js", "Leaflet", "Context API", "Custom Hooks"],
+      image: "",
+video: "",
+links: [],
     },
     {
       title: "UsePopcorn",
@@ -138,6 +145,9 @@ export const DATA = {
       description:
         "Movie search and watchlist app using advanced React patterns like useReducer and custom hooks.",
       technologies: ["React.js", "JavaScript", "CSS"],
+      image: "",
+video: "",
+links: [],
     },
     {
       title: "Omnifood",
@@ -147,6 +157,9 @@ export const DATA = {
       description:
         "Responsive landing page for a food subscription service focused on clean UI and modern CSS techniques.",
       technologies: ["HTML", "CSS", "JavaScript"],
+      image: "",
+video: "",
+links: [],
     },
   ],
 
