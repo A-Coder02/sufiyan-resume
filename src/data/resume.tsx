@@ -15,23 +15,26 @@ import { Csharp } from "@/components/ui/svgs/csharp";
 export const DATA = {
   name: "Sufiyan Shaikh",
   initials: "SS",
-  url: "https://your-portfolio-link.com", // update if needed
+  url: "https://your-portfolio-link.com",
   location: "Pune, India",
   locationLink: "https://www.google.com/maps/place/pune",
   description:
-    "Frontend Engineer specializing in React.js, building scalable and high-performance web applications.",
+    "Frontend Engineer | React.js & Web Developer | Digital Marketing Enthusiast",
   summary:
-    "Frontend Engineer with strong experience in building responsive and dynamic web applications using React.js, Next.js, and modern UI tools. Experienced in full-stack development, SEO optimization, and delivering user-focused solutions. Passionate about clean UI/UX, performance, and scalable architecture.",
+    "Passionate Frontend Engineer with hands-on experience building responsive and dynamic web applications using React.js, Next.js, and modern UI tools. Strong understanding of SEO, performance optimization, and user-centric design. Experienced in full-stack development, content strategy, and delivering scalable, high-quality solutions.",
 
   avatarUrl: "/me.png",
 
   skills: [
     { name: "React", icon: ReactLight },
     { name: "Next.js", icon: NextjsIconDark },
-    { name: "Typescript", icon: Typescript },
-    { name: "Node.js", icon: Nodejs },
     { name: "JavaScript", icon: Typescript },
+    { name: "TypeScript", icon: Typescript },
+    { name: "Node.js", icon: Nodejs },
     { name: "Java", icon: Java },
+    { name: "Tailwind CSS", icon: ReactLight },
+    { name: "HTML5", icon: ReactLight },
+    { name: "CSS3", icon: ReactLight },
   ],
 
   navbar: [
@@ -60,6 +63,28 @@ export const DATA = {
 
   work: [
     {
+      company: "TomTom",
+      href: "#",
+      location: "Hybrid",
+      title: "Technical Support Professional",
+      logoUrl: "/tomtom.png",
+      start: "May 2025",
+      end: "Present",
+      description:
+        "Delivered technical support by diagnosing and resolving product issues efficiently. Managed customer queries via Zendesk, ensuring high satisfaction through clear communication and quick resolutions. Contributed to process improvements by identifying recurring issues and optimizing workflows.",
+    },
+    {
+      company: "Pronttera",
+      href: "#",
+      location: "Hybrid",
+      title: "Content Creator & Digital Marketing Associate",
+      logoUrl: "/pronttera.png",
+      start: "Dec 2024",
+      end: "May 2025",
+      description:
+        "Created engaging social media content and short-form videos for platforms like Instagram and YouTube. Developed SEO-optimized website content to boost organic traffic and supported client growth through digital marketing strategies.",
+    },
+    {
       company: "Imagecurry",
       href: "#",
       location: "Remote",
@@ -68,8 +93,7 @@ export const DATA = {
       start: "Sep 2024",
       end: "Dec 2024",
       description:
-        "Built responsive web applications using React.js, Next.js, and Tailwind CSS. Translated client requirements into scalable UI components and improved UX using Figma-driven designs. Optimized web content for SEO and performance.",
-        
+        "Built responsive web applications using React.js, Next.js, and Tailwind CSS. Translated client requirements into intuitive UI components and improved UX using Figma. Focused on performance and SEO optimization.",
     },
     {
       company: "Bright Forge Solutions",
@@ -80,7 +104,7 @@ export const DATA = {
       start: "Mar 2024",
       end: "Sep 2024",
       description:
-        "Developed REST APIs and microservices using Java and Spring Boot. Built frontend interfaces with Angular and managed tasks using JIRA. Delivered scalable full-stack solutions with focus on performance.",
+        "Developed REST APIs and microservices using Java and Spring Boot. Built frontend interfaces with Angular and managed tasks via JIRA. Delivered scalable full-stack applications.",
     },
     {
       company: "The Digital Junction",
@@ -91,7 +115,7 @@ export const DATA = {
       start: "2021",
       end: "2021",
       description:
-        "Worked on SEO, SEM, and PPC campaigns. Managed WordPress content and improved website traffic through keyword optimization and social media strategies.",
+        "Worked on SEO, SEM, and PPC campaigns. Managed WordPress content and improved website traffic using keyword optimization and social media strategies.",
     },
   ],
 
@@ -120,10 +144,10 @@ export const DATA = {
         "React Query",
         "Context API",
         "Styled Components",
-      ], 
+      ],
       image: "",
-video: "",
-links: [],
+      video: "",
+      links: [],
     },
     {
       title: "Worldwise",
@@ -134,8 +158,8 @@ links: [],
         "Interactive travel tracker with map integration allowing users to log visited cities and manage travel history.",
       technologies: ["React.js", "Leaflet", "Context API", "Custom Hooks"],
       image: "",
-video: "",
-links: [],
+      video: "",
+      links: [],
     },
     {
       title: "UsePopcorn",
@@ -146,8 +170,8 @@ links: [],
         "Movie search and watchlist app using advanced React patterns like useReducer and custom hooks.",
       technologies: ["React.js", "JavaScript", "CSS"],
       image: "",
-video: "",
-links: [],
+      video: "",
+      links: [],
     },
     {
       title: "Omnifood",
@@ -158,15 +182,15 @@ links: [],
         "Responsive landing page for a food subscription service focused on clean UI and modern CSS techniques.",
       technologies: ["HTML", "CSS", "JavaScript"],
       image: "",
-video: "",
-links: [],
+      video: "",
+      links: [],
     },
   ],
 
   certifications: [
     "Web Development & Data Structures – Pepcoding",
-    "Ultimate React Course – Udemy",
-    "Responsive Web Design – Udemy",
+    "The Ultimate React Course 2024 – Udemy",
+    "Build Responsive Real-World Websites – Udemy",
     "OOPs in Java – Haris Infotech",
     "Digital Marketing – School of Digital Marketing",
   ],
